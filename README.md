@@ -5,6 +5,6 @@ Here are some ideas to get you started:
 
 - 🔭 Futuramente trabalhando com front-end
 - 🌱 Estou aprendendo HTML/CSS/JS
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 
